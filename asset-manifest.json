@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.317e02d3.css",
-    "main.js": "/static/js/main.df8f6933.js",
+    "main.css": "/static/css/main.606257ca.css",
+    "main.js": "/static/js/main.3d95cb79.js",
     "static/js/453.34206c2b.chunk.js": "/static/js/453.34206c2b.chunk.js",
     "static/media/1.webp": "/static/media/1.2245f9fd07d098d7affe.webp",
     "static/media/IMG_6526.webp": "/static/media/IMG_6526.e8a0c2c8b161c9959304.webp",
@@ -37,6 +37,7 @@
     "static/media/IMG_0886.webp": "/static/media/IMG_0886.7f014b5adca80d0c9cbc.webp",
     "static/media/Xmas.webp": "/static/media/Xmas.440bdf19a5b0455effb3.webp",
     "static/media/Speaker_Sales_Team.webp": "/static/media/Speaker_Sales_Team.6582149c5e9ad57a63ec.webp",
+    "static/media/Calling_Team.webp": "/static/media/Calling_Team.b64878cfd3f079bf7600.webp",
     "static/media/HBday.webp": "/static/media/HBday.eb649a044a2a23d2af0c.webp",
     "static/media/christmas.webp": "/static/media/christmas.c2ccbc5304f69a74af8b.webp",
     "static/media/WhatsApp Image 2025-07-25 at 7.58.18 PM (1).webp": "/static/media/WhatsApp Image 2025-07-25 at 7.58.18 PM (1).a2fdf6070c26bbcb16e4.webp",
@@ -73,12 +74,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.317e02d3.css.map": "/static/css/main.317e02d3.css.map",
-    "main.df8f6933.js.map": "/static/js/main.df8f6933.js.map",
+    "main.606257ca.css.map": "/static/css/main.606257ca.css.map",
+    "main.3d95cb79.js.map": "/static/js/main.3d95cb79.js.map",
     "453.34206c2b.chunk.js.map": "/static/js/453.34206c2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.317e02d3.css",
-    "static/js/main.df8f6933.js"
+    "static/css/main.606257ca.css",
+    "static/js/main.3d95cb79.js"
   ]
 }
